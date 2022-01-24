@@ -1,6 +1,7 @@
 {
   "name": "signinform",
   "version": "0.1.0",
+  "homepage": "https://chetankochiyaniya.github.io/SinginPageFormik",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -19,6 +20,8 @@
     "yup": "^0.32.11"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

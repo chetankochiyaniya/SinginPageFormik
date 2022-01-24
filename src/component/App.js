@@ -7,8 +7,8 @@ import SignIn from './SignIn';
 const App = () => {
   return (<>
      <Switch>
-         <Route exact path='/'><SignIn/></Route>
-         <Route exact path='/home'><Home/></Route>
+     <Route exact path='/' component={SignIn}/>
+        <Route exact path='/home' component={Home}/>
      </Switch>   
      
   </>
