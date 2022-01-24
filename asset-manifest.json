@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SinginPageFormik/static/css/main.95978f3c.css",
+    "main.js": "/SinginPageFormik/static/js/main.7a695f74.js",
+    "index.html": "/SinginPageFormik/index.html",
+    "main.95978f3c.css.map": "/SinginPageFormik/static/css/main.95978f3c.css.map",
+    "main.7a695f74.js.map": "/SinginPageFormik/static/js/main.7a695f74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95978f3c.css",
+    "static/js/main.7a695f74.js"
+  ]
+}
