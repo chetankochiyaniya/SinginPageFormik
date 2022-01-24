@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SinginPageFormik/static/css/main.95978f3c.css",
-    "main.js": "/SinginPageFormik/static/js/main.7a695f74.js",
+    "main.js": "/SinginPageFormik/static/js/main.7ea820fb.js",
     "index.html": "/SinginPageFormik/index.html",
     "main.95978f3c.css.map": "/SinginPageFormik/static/css/main.95978f3c.css.map",
-    "main.7a695f74.js.map": "/SinginPageFormik/static/js/main.7a695f74.js.map"
+    "main.7ea820fb.js.map": "/SinginPageFormik/static/js/main.7ea820fb.js.map"
   },
   "entrypoints": [
     "static/css/main.95978f3c.css",
-    "static/js/main.7a695f74.js"
+    "static/js/main.7ea820fb.js"
   ]
 }
